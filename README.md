@@ -1,9 +1,11 @@
 # Deeplabv3plus-for-tensorflow
-The project is developed using TensorFlow 2.0.
+The project is developedv3plus using TensorFlow 2.0.
 
 本项目基于python3.8环境, 必要的库tensoflow=2.10等。
 
-目的：实现图像语义分割2分类
+目的：
+
+基于developedv3plus实现任何图像的语义分割（2分类）
 
 用法：
 
