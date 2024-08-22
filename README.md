@@ -1,5 +1,5 @@
 # Deeplabv3plus-for-tensorflow
-The project is developedv3plus using TensorFlow 2.0.
+The project is developedv3plus using TensorFlow 2.10.
 
 本项目基于python3.8环境, 必要的库tensoflow=2.10等。
 
