@@ -55,12 +55,9 @@ if __name__ == '__main__':
         predictions[predictions >= yz] = 1
         predictions[predictions < yz] = 0
         predictions = predictions*mask
-
-        # 形态学操作
         predictions = predictions.astype(np.uint8)
-
         print(predictions.shape)
-        predictions = predictions
+
         #获取输出文件名
         filename = os.path.basename(input_file)
         output_file = os.path.join(output_folder2, f"{filename.split('.')[0]}_prediction.png")
