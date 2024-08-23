@@ -5,7 +5,7 @@ This project is based on Python 3.8 environment, and the necessary libraries inc
 
 Project purpose:
 
-1.Realize semantic segmentation of any image based on developedv3plus (2 categories).
+1. Realize semantic segmentation of any image based on developedv3plus (2 categories).
 
 Steps:
 
